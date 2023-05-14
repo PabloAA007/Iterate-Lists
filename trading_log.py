@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Student Do: Trading Log.
+Trading Log.
 
 This script demonstrates how to perform basic analysis of trading profits/losses
 over the course of a month (20 business days).
